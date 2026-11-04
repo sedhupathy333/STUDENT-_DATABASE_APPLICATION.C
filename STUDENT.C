@@ -4,7 +4,7 @@ struct student
 {
     char name[50];
     int rollno;
-    float mark;
+    int mark;
     char city[50];
     char dream[50];
 };
